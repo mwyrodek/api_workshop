@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+
+      "target": "es6",
+      "lib": ["es6", "dom"],
+      "types": ["cypress", "./support", "cypress-file-upload", "chaiExclude"],
+    },
+     "moduleResolution": "node",
+    "include": [
+        "**/*.ts",
+      "./node_modules/cypress",
+    "./node_modules/fishery",
+      "./node_modules/faker"
+    ]
+  }

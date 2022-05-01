@@ -1,0 +1,7 @@
+{
+  "baseUrl": "puturlhere",
+  "env":{
+    "login":"logingoeshere",
+    "password": "passgoeshere"
+  }
+}
